@@ -1,7 +1,17 @@
 [
   {
     "id": 1,
-    "judul": "Video Pertama",
+    "judul": "Channel A: Berita Pagi",
+    "url_streaming": "https://stream.server/berita.m3u8"
+  },
+  {
+    "id": 2,
+    "judul": "Channel B: Film Dokumenter",
     "url_streaming": "https://static.adplayer.pro/video/ProPromoVideo.mp4"
+  },
+  {
+    "id": 3,
+    "judul": "Channel C: Live Musik",
+    "url_streaming": "https://stream.server/musik_live.mpd" 
   }
 ]
